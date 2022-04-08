@@ -1,8 +1,19 @@
 # test_VScode
 ## VScodeとの連携を確認するリポジトリ
 ### 資格情報の削除(これをすることで複数のアカウントの切り替えが容易となる)
-'cmdkey /delete:git:https://github.com'
+`cmdkey /delete:git:https://github.com`
 
+### コードの挿入
+```
+public class Hello_VScode {
+    public static void main(String[] args) {
+        System.out.println("Hello, VScode!");
+        System.out.println("Hello, GitHub!");
+        System.out.println("Change directory");
+        System.out.println("relogin the account");
+    }
+}
+```
 ### 参考URL
 [VScodeとGitHubの連携](https://breezegroup.co.jp/202102/vscode-github-windows/?msclkid=ca6daf56b6db11ec8cdd5e6bbb67115c)
 
