@@ -3,5 +3,6 @@ public class Hello_VScode {
         System.out.println("Hello, VScode!");
         System.out.println("Hello, GitHub!");
         System.out.println("Change directory");
+        System.out.println("relogin the account");
     }
 }
