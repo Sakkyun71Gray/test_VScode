@@ -49,3 +49,7 @@ public class Hello_VScode {
 ### gitHub上での変更の反映法について
 
 確認用
+
+pullリクエストで解決
+
+確認用(VScodeからgithub)
